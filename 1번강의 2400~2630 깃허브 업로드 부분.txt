@@ -1,0 +1,19 @@
+<메모>
+1번강의 24:00~26:30 깃허브에 업로드 하는 방법 부분임
+ # 의존성 나중에 더 추가됨
+ ojdbc8
+ querydsl -> (2개 필요) Querydsl JPA Support, Querydsl APT Support
+ Modemapper
+
+1일차
+1. 스프링 부트 설정
+ - 오라클 driver / mysql driver
+ - querydsl 의존성 / 설정
+ - ModelMapper
+
+ workbench
+ root ->
+ CREATE DATABASE boardProject;
+
+2. URL 구성 및 엔티티, 레포지토리 설계
+3. 스프링 시큐리티를 이용한 회원가입 및 로그인 구현
