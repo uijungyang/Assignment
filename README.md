@@ -47,9 +47,7 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 ![IMG_6771](https://github.com/user-attachments/assets/17b2b6e0-0978-4866-8fb0-7848984062b2)
 
 <br><br>
-
-
-
+![IMG_6772](https://github.com/user-attachments/assets/19403656-3b19-4368-a816-b7c89cda0326)
 
 
 
