@@ -41,6 +41,14 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 ✅ 개선 후 JobStick
 1. 
 
+<img width="1448" alt="image" src="https://github.com/user-attachments/assets/b43c8ab0-1cc7-40fb-8a18-100e116b15d4" />
+
+<br><br>
+![IMG_6771](https://github.com/user-attachments/assets/17b2b6e0-0978-4866-8fb0-7848984062b2)
+
+<br><br>
+
+
 
 
 
