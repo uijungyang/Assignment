@@ -24,7 +24,7 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 2. UI (면접 화면 개선, 면접자 음성 개선)
 3. 기타 (로딩 속도 조절, 면접 도중 다른페이지로 이동시 AI 면접관 음성 오류 개션)
 
-## ☑️ 개선 전 JobStick
+### ☑️ 개선 전 JobStick
 #### 1.
 
 ![image](https://github.com/user-attachments/assets/03ab5309-20cd-4526-b46a-68c82e258645)
@@ -38,7 +38,7 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 
 
-##  ✅ 개선 후 JobStick
+### ✅ 개선 후 JobStick
 #### 1. 
 
 <img width="1448" alt="image" src="https://github.com/user-attachments/assets/b43c8ab0-1cc7-40fb-8a18-100e116b15d4" />
