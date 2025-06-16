@@ -29,11 +29,11 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 ![image](https://github.com/user-attachments/assets/03ab5309-20cd-4526-b46a-68c82e258645)
 
-<br><br><<br>
+<br><br>
 
 ![image](https://github.com/user-attachments/assets/477d28bf-32be-40f9-b1e3-e07b9f5dfd4a)
 
-<br><br><br>
+<br><br>
 
 
 
