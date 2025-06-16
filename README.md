@@ -34,21 +34,21 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 
 ### ☑️ BEFORE & AFTER
-#### 1. 
-❌ Before
+### 1. 
+#### ❌ Before
 <img width="1328" alt="스크린샷 2025-06-16 오후 4 29 55" src="https://github.com/user-attachments/assets/ef663e57-d15f-4fbc-8233-097961f03f56" />
 질문이 다소 단조롭고, 반복적인 문장이 나옴. 또한 면접자의 답변을 활용하지 못함.
 <br><br>
 
 
-⭕ After
+####  ⭕ After
 <img width="1298" alt="Readme Before After #1 부분 사진 2" src="https://github.com/user-attachments/assets/6b696b53-b083-4644-9a98-90a9d435a728" />
 사용자의 답변과 자연스럽게 이어지는 질문이 생성됨. 그리고 마지막에는 Tech 질문도 하도록 구성함
-<br>
+<br><br>
 
 
-#### 2.  
-❌ Before
+### 2.  
+#### ❌ Before
 
 ![image](https://github.com/user-attachments/assets/03ab5309-20cd-4526-b46a-68c82e258645)
 
@@ -58,7 +58,7 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 <br><br>
 
-⭕ After
+####  ⭕ After
 
 <img width="1448" alt="image" src="https://github.com/user-attachments/assets/b43c8ab0-1cc7-40fb-8a18-100e116b15d4" />
 
