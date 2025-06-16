@@ -20,7 +20,8 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 ### 💡 Problem & Solution
 소셜 로그인 및 AI interview 초기 버전을 만들고 바로 베포를 함
 
-아래 사진은 개발 기간동안 받았던 피드백의 일부입니다. <br>
+⬇️ 아래 사진은 개발 기간동안 받았던 피드백의 일부입니다.
+<br>
 <img width="1014" alt="image" src="https://github.com/user-attachments/assets/44605bd0-937d-4a72-b609-77f71a0fa905" />
 
 개선점을 크게 3가지로 나누면, 
