@@ -36,6 +36,10 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 ### ☑️ BEFORE & AFTER
 #### 1. 
 ❌ Before
+<img width="1328" alt="스크린샷 2025-06-16 오후 4 29 55" src="https://github.com/user-attachments/assets/ef663e57-d15f-4fbc-8233-097961f03f56" />
+질문이 다소 단조롭고, 반복적인 문장이 나옴. 또한 면접자의 답변을 활용하지 못함.
+
+⭕ After
 
 
 
