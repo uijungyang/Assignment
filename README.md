@@ -25,8 +25,11 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 3. 기타 (로딩 속도 조절, 면접 도중 다른페이지로 이동시 AI 면접관 음성 오류 개션)
 
 ☑️ 개선 전 JobStick
-1. <img width="1289" alt="image" src="https://github.com/user-attachments/assets/2ef13149-a9d0-48c1-aed7-31b03d279f0f" />
+1.
+<div style="display: flex; gap: 20px;">
+   <img width="1289" alt="image" src="https://github.com/user-attachments/assets/2ef13149-a9d0-48c1-aed7-31b03d279f0f" />
    <img width="1306" alt="image" src="https://github.com/user-attachments/assets/68850620-c5b3-48f4-984f-d690720da0d1"/>
+</div>
 
 
 
