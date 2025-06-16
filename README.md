@@ -31,7 +31,8 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 
 ### ☑️ BEFORE & AFTER
-#### 1. Before
+#### 1.  
+❌ Before
 
 ![image](https://github.com/user-attachments/assets/03ab5309-20cd-4526-b46a-68c82e258645)
 
@@ -41,7 +42,7 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 <br><br>
 
-#### 1. After
+⭕ After
 
 <img width="1448" alt="image" src="https://github.com/user-attachments/assets/b43c8ab0-1cc7-40fb-8a18-100e116b15d4" />
 
