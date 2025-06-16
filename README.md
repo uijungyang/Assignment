@@ -10,7 +10,7 @@
 JobStick is an AI-driven mock interview service that generates interview questions and evaluates candidate responses using a large language model (LLM).
 It supports personalized interview experiences tailored to specific roles and companies.
 
-<br><br><br>
+<br><br>
 
 ### Why I develop 'JobStick'
 As a new job seeker, it's relatively easy to get help with reviewing your resume or portfolio. But mock interviews? Not so much. Preparing for interviews depends heavily on your speaking proficiency and how much you've practiced. Effective interview preparation is not achieved overnight; it is the result of continuous and deliberate practice. That's why I decided to develop an AI-powered mock interview platform.
@@ -38,7 +38,7 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 ![image](https://github.com/user-attachments/assets/477d28bf-32be-40f9-b1e3-e07b9f5dfd4a)
 
-<br><br><br>
+<br><br>
 
 #### 1. After
 
