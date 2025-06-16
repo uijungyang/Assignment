@@ -29,8 +29,8 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 
 ☑️ 개선점을 크게 3가지로 나누면, 
 1. 질문 퀄리티 높이기 (질문 다양화, AI와 자연스러운 커뮤니케이션, 심층 질문, 회사별 질문 차별화)
-2. UI (면접 화면 개선, 면접자 음성 개선)
-3. 기타 (로딩 속도 조절, 면접 도중 다른페이지로 이동시 AI 면접관 음성 오류 개션)
+2. 인터뷰 UI (면접 화면 개선, 면접자 음성 개선)
+3. 기타 (메인화면 UI 개선, 로딩 속도 조절, 면접 도중 다른페이지로 이동시 AI 면접관 음성 오류 개션 등등)
 
 
 ### ✅ BEFORE & AFTER
@@ -73,8 +73,15 @@ As a new job seeker, it's relatively easy to get help with reviewing your resume
 ### 3. 
 #### ❌ Before
 
+<img width="1306" alt="스크린샷 2025-06-16 오후 5 06 57" src="https://github.com/user-attachments/assets/7d773074-4ffc-4f91-bbaa-84fcf9397590" />
 
 
+####  ⭕ After
+<img width="1490" alt="스크린샷 2025-06-16 오후 5 06 13" src="https://github.com/user-attachments/assets/7f253e7a-5579-4869-adf6-fe8c1ab10c29" />
+<br>
+* 메인 화면 UI를 더 깔끔하게 개선하고, 사용자가 JobStick에 대해 쉽게 이해할 수 있도록 주요 정보를 스크롤 구조로 구성했습니다.
+* 면접관 음성을 기존보다 자연스러운 모델로 교체해, 기계적인 느낌을 줄였습니다.
+* AI 질문 생성 시 로딩 시간이 단축되었으며, '질문 생성 중'이라는 안내 문구를 추가해 사용자 경험을 개선했습니다.
 
 
 
