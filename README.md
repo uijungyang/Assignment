@@ -13,7 +13,7 @@ It supports personalized interview experiences tailored to specific roles and co
 <br>
 
 ### Why I develop 'JobStick'
-
+⬇️ JobStick 파이널 발표 PPT 일부 발췌
 ![JobStick](https://github.com/user-attachments/assets/d95de442-79f1-4806-b47c-27784471309b)
 <br>
 As a new job seeker, it's relatively easy to get help with reviewing your resume or portfolio. But mock interviews? Not so much. Preparing for interviews depends heavily on your speaking proficiency and how much you've practiced. Effective interview preparation is not achieved overnight; it is the result of continuous and deliberate practice. That's why I decided to develop an AI-powered mock interview platform.
